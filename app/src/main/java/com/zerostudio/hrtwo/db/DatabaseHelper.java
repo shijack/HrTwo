@@ -12,7 +12,7 @@ import com.j256.ormlite.table.DatabaseTable;
 import com.j256.ormlite.table.TableUtils;
 import com.zerostudio.hrtwo.db.dao.bean.QuesstionInfo;
 import com.zerostudio.hrtwo.db.dao.bean.QuesstionOption;
-import com.zerostudio.hrtwo.db.dao.Section;
+import com.zerostudio.hrtwo.db.dao.bean.Section;
 
 import net.sqlcipher.database.SQLiteDatabase;
 
