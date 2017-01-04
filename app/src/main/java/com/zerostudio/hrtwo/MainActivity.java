@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import com.zerostudio.hrtwo.db.dao.bean.QuesstionOption;
 import com.zerostudio.hrtwo.db.dao.bean.QuesstionOptionDao;
-import com.zerostudio.hrtwo.db.dao.bean.Section;
+import com.zerostudio.hrtwo.db.dao.Section;
 import com.zerostudio.hrtwo.db.dao.bean.SectionDao;
 import com.zerostudio.hrtwo.utils.AssetsUtil;
 import com.zerostudio.hrtwo.utils.LogUtil;

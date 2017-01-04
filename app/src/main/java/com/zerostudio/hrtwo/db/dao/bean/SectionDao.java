@@ -2,6 +2,7 @@ package com.zerostudio.hrtwo.db.dao.bean;
 
 import android.content.Context;
 
+import com.zerostudio.hrtwo.db.dao.Section;
 import com.zerostudio.hrtwo.db.dao.ormlite.OrmLiteDao;
 
 /**
